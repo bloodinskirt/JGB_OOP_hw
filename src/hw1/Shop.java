@@ -1,3 +1,5 @@
+package hw1;
+
 public class Shop {
     private Category[] categories;
 

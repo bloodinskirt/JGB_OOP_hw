@@ -1,4 +1,6 @@
- public class Main {
+package hw1;
+
+public class Main {
     public static void main(String[] args) {
         Product product1 = new Product("Товар 1", 100.0, 4);
         Product product2 = new Product("Товар 2", 200.0, 5);
